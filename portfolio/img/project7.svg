@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   id="svg4269"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="project7.svg">
+  <title
+     id="title4871">Map</title>
+  <defs
+     id="defs4271" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="35.169441"
+     inkscape:cy="51.773791"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4676"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-20,9.75"
+       orientation="0,1"
+       id="guide4945" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4274">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Map</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36216)">
+    <g
+       style="display:inline"
+       id="g4676"
+       transform="matrix(1.4943671,0,0,1.3118672,-1448.7547,871.2336)">
+      <g
+         transform="matrix(2.6790488,0,0,2.6955044,-2247.9374,-114.03328)"
+         style="display:inline"
+         id="g5667">
+        <ellipse
+           ry="10.115146"
+           rx="8.899539"
+           cy="76.251884"
+           cx="1213.5385"
+           id="path4599"
+           style="fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:0.14936785;stroke-opacity:1" />
+        <rect
+           transform="matrix(0.52024305,0.85401825,-0.54639079,0.83753036,0,0)"
+           y="-1109.944"
+           x="1166.6929"
+           height="15.184472"
+           width="15.73679"
+           id="rect4609"
+           style="fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:0.13142437;stroke-opacity:1" />
+        <ellipse
+           ry="7.6407547"
+           rx="7.2225375"
+           cy="75.910255"
+           cx="1213.5132"
+           id="path4611"
+           style="fill:#ff9900;fill-opacity:1;stroke:none;stroke-opacity:1" />
+        <ellipse
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="ellipse4613"
+           cx="1213.4009"
+           cy="75.622879"
+           rx="4.5255733"
+           ry="4.4157486" />
+      </g>
+    </g>
+  </g>
+</svg>

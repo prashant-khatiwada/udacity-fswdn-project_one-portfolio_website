@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+    <link rel="stylesheet" href="css/responsive.css">
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/custom.js"></script>
+</head>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+    <nav class="header navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+                <a href="#section1" class="logo header">quirkyPrashant</a>
+            </div>
+            <div class="collapse navbar-collapse" id="mainNavbar">
+                <ul class="nav navbar-right navbar-nav">
+                    <li><a href="#section1" data-scroll>Home</a></li>
+                    <li><a href="#section2" data-scroll>Projects</a></li>
+                    <li><a href="#section3" data-scroll>Tulip</a></li>
+                    <li><a href="#section4" data-scroll>Orange</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid">
+
+        <section class="row jumbotron" id="section1">
+            <div class="col-md-12">
+                <img src="img/logo.svg" id="image_logo" alt="Logo Image">
+                <h1>Apple &#38; Orange</h1>
+                <p>The code examples are part of my learning experience under Udacity, Full Stack Development Nanodegree.<br>
+                    <br> The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand. (-- Vince Lombardi)</p>
+                <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004" target="_blank" class="btn btn-lg btn-success">Learn More</a>
+            </div>
+        </section>
+
+        <main>
+            <section class="row" id="section2">
+                <div class="col-md-12">
+                    <h1>Projects</h1>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-4 box">
+                        <img src="img/project1.svg" class="image_projects" alt="movie trailer website project image">
+                        <h2> Movie Trailer Website</h2>
+                        <div class="overlay">
+                            <div class="text">
+                                <p>Write server-side code to store a list of your favorite movies, including box art imagery and a movie trailer URL. You will then serve this data as a web page allowing visitors to review their movies and watch the trailers</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4 box">
+                        <img src="img/project2.svg" class="image_projects" alt="Build a Portfolio project image">
+                        <h2> Build a Portfolio</h2>
+                        <div class="overlay">
+                            <div class="text">
+                                <p>A design mockup as a PDF-file provide must be replicate that design in HTML and CSS.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4 box">
+                        <img src="img/project3.svg" class="image_projects" alt="Multi-User Blog project image">
+                        <h2> Multi-User Blog</h2>
+                        <div class="overlay">
+                            <div class="text">
+                                <p>Building a multi user blog where users can sign in and post blog posts as well as 'Like' and 'Comment' on other posts made on the blog. Hosting this blog on Google App Engine.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4 box">
+                        <img src="img/project4.svg" class="image_projects" alt="Tournament Results project image">
+                        <h2> Tournament Results</h2>
+                        <div class="overlay">
+                            <div class="text">
+                                <p>Develop a database schema to store the game matches between players. You will then write code to query this data and determine the winners of various games.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4 box">
+                        <img src="img/project5.svg" class="image_projects" alt="Image Catalog project image">
+                        <h2>Items Catalog</h2>
+                        <div class="overlay">
+                            <div class="text">
+                                <p>Develop an application that provides a list of items within a variety of categories as well as provide a user registration and authentication system. Registered users will have the ability to post, edit and delete their
+                                    own items.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4 box">
+                        <img src="img/project6.svg" class="image_projects" alt="Networking project image">
+                        <h2>Networking</h2>
+                        <div class="overlay">
+                            <div class="text">
+                                <p>Learn how tell your unique story to recruiters in a succinct and professional but relatable way.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4 box">
+                        <img src="img/project7.svg" class="image_projects" alt="Linux Server configuration project image">
+                        <h2>Neighborhood Map</h2>
+                        <div class="overlay">
+                            <div class="text">
+                                <p>Develop a single-page application featuring a map of your neighborhood or a neighborhood you would like to visit.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4 box">
+                        <img src="img/project8.svg" class="image_projects" alt="Linux Server configuration project image">
+                        <h2>Linux Server</h2>
+                        <div class="overlay">
+                            <div class="text">
+                                <p>Take a baseline installation of a Linux distribution on a virtual machine and prepare it to host your web applications, to include installing updates, securing it from a number of attack vectors and installing/configuring
+                                    web and database servers.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="row" id="section3">
+                <div class="col-md-12">
+                    <h1>Tulip</h1>
+                </div>
+                <div id="image_tulip" class="col-md-12">
+                    <img sizes="(max-width: 1400px) 100vw, 1400px" srcset="
+          img/tulip_gvefwd_c_scale,w_508.jpg 508w,
+          img/tulip_gvefwd_c_scale,w_899.jpg 899w,
+          img/tulip_gvefwd_c_scale,w_1192.jpg 1192w,
+          img/tulip_gvefwd_c_scale,w_1400.jpg 1400w" src="img/tulip_gvefwd_c_scale,w_1400.jpg" alt="Tulip imagery">
+                </div>
+            </section>
+
+            <section class="row" id="section4">
+                <div class="col-md-12">
+                    <h1>Orange</h1>
+                    <h2>Loading...</h2>
+                    <h3>section reserved for future learning experiences</h3>
+                </div>
+            </section>
+        </main>
+    </div>
+
+</body>
+
+</html>

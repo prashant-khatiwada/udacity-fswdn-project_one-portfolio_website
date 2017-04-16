@@ -1,0 +1,110 @@
+body {
+    color: #332;
+    background-color: #fff;
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* Fixed Menu Style*/
+
+.header {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #333;
+    top: 0;
+}
+
+.logo {
+    line-height: 55px;
+    padding: 0 20px;
+    color: #fff;
+}
+
+.navbar li a {
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    background-color: inherit;
+}
+
+
+/*Main Body*/
+
+section {
+    border-bottom: 1px solid #999;
+    text-align: center;
+    min-height: 800px;
+    width: 100%;
+}
+
+section h1 {
+    font-size: 70px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+
+/* Section One*/
+
+.jumbotron {
+    background-image: url("../img/flower.jpg");
+    color: white;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 800px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 8px;
+    text-shadow: black 0.1em 0.1em 0.1em;
+}
+
+#image_logo {
+    padding-top: 40px;
+}
+
+#image_logo:hover {
+    opacity: .7;
+}
+
+#section1 h1 {
+    font-weight: 100;
+    font-size: 50px;
+}
+
+#section1 p {
+    text-align: center;
+    padding-right: 25%;
+    padding-left: 25%;
+}
+
+#section1 {
+    margin-top: 50px;
+}
+
+
+/*Section Two*/
+
+.box {
+    text-align: center;
+}
+
+
+/*Section Three*/
+
+#section3 {
+    min-height: auto;
+}
+
+#section3 .col-md-12 {
+    padding: 0px;
+}
+
+#image_tulip {
+    margin: 0px;
+}
+
+
+/*Sectoin Four*/

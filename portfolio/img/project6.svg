@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   id="svg4269"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="project6.svg">
+  <title
+     id="title4871">Networking</title>
+  <defs
+     id="defs4271" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="61.244004"
+     inkscape:cy="43.74424"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4676"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-20,9.75"
+       orientation="0,1"
+       id="guide4945" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4274">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Networking</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36216)">
+    <g
+       style="display:inline"
+       id="g4676"
+       transform="matrix(1.4943671,0,0,1.3118672,-1448.7547,871.2336)">
+      <ellipse
+         ry="12.16437"
+         rx="11.423866"
+         cy="101.62289"
+         cx="1005.7574"
+         id="path4621"
+         style="fill:#3366cc;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <ellipse
+         ry="6.2495842"
+         rx="5.7119331"
+         cy="93.520721"
+         cx="1028.8907"
+         id="path4623"
+         style="fill:#669900;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <ellipse
+         ry="6.0263848"
+         rx="5.7119331"
+         cy="71.870384"
+         cx="1008.899"
+         id="path4625"
+         style="fill:#3366cc;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <ellipse
+         ry="4.6871881"
+         rx="4.2839499"
+         cy="126.33104"
+         cx="1021.7508"
+         id="path4627"
+         style="fill:#3366cc;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <ellipse
+         ry="10.713573"
+         rx="9.995883"
+         cy="85.931946"
+         cx="981.76727"
+         id="path4629"
+         style="fill:#3366cc;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.99451293,0.10461372,-0.08753304,0.99616162,0,0)"
+         y="-29.557299"
+         x="1011.1168"
+         height="15.612176"
+         width="0.71463585"
+         id="rect4637"
+         style="fill:#3366cc;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.91708012,-0.39870296,0.31558723,0.94889657,0,0)"
+         y="498.07425"
+         x="935.94708"
+         height="0.7059961"
+         width="8.9448099"
+         id="rect4639"
+         style="fill:#3366cc;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.90932971,-0.41607629,0.4670641,0.88422346,0,0)"
+         y="517.29724"
+         x="844.66278"
+         height="22.717119"
+         width="0.58012074"
+         id="rect4637-9"
+         style="fill:#3366cc;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.67381406,-0.73890095,0.76467262,0.64441895,0,0)"
+         y="788.05243"
+         x="568.06445"
+         height="21.968874"
+         width="0.59936839"
+         id="rect4637-9-3"
+         style="fill:#3366cc;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <ellipse
+         ry="6.6401834"
+         rx="6.4259248"
+         cy="101.39972"
+         cx="1005.8267"
+         id="path4671"
+         style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

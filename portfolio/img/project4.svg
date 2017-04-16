@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   id="svg4269"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="project4.svg">
+  <title
+     id="title4871">Tournament</title>
+  <defs
+     id="defs4271" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="95.032052"
+     inkscape:cy="54.236688"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-20,9.75"
+       orientation="0,1"
+       id="guide4945" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4274">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tournament</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36216)">
+    <g
+       id="g4818"
+       transform="matrix(0.09592893,0,0,0.08977843,1.0355325,958.71845)"
+       style="display:inline;fill:#669900">
+      <g
+         id="g4820"
+         style="fill:#669900">
+        <path
+           d="m 806.3,193.8 0,-122.5 -612.5,0 0,122.5 -183.8,0 0,122.5 C 10,417.7 92.3,500 193.8,500 c 19.2,0 37.7,-3 55.1,-8.4 44.2,63.2 111.6,108.9 189.9,124.8 l 0,189.9 -61.3,0 C 309.8,806.3 255,861.1 255,928.8 l 490,0 C 745,861.1 690.2,806.3 622.5,806.3 l -61.3,0 0,-189.9 c 78.3,-15.9 145.7,-61.6 189.9,-124.8 17.4,5.5 35.9,8.4 55.1,8.4 C 907.7,500 990,417.7 990,316.3 l 0,-122.5 -183.7,0 z M 193.8,427.3 c -61.2,0 -111,-49.8 -111,-111 l 0,-61.3 111,0 0,61.3 c 0,38.5 7.1,75.3 20.1,109.2 -6.6,1.1 -13.3,1.8 -20.1,1.8 z m 723.5,-111 c 0,61.2 -49.8,111 -111,111 -6.8,0 -13.5,-0.7 -20.1,-1.8 12.9,-33.9 20.1,-70.7 20.1,-109.2 l 0,-61.3 111,0 0,61.3 z"
+           id="path4822"
+           inkscape:connector-curvature="0"
+           style="fill:#669900" />
+      </g>
+    </g>
+  </g>
+</svg>

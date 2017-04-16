@@ -1,0 +1,117 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+/* Small Devices, Phones */
+
+@media only screen and (min-width: 360px) {
+    section {
+        padding: 20px 0 0;
+    }
+    #section1 p {
+        padding-right: 10%;
+        padding-left: 10%;
+    }
+    .box p {
+        margin-right: 10%;
+        margin-left: 10%;
+        font-size: 20px;
+        text-align: justify;
+    }
+    .box img {
+        height: 150px;
+    }
+}
+
+
+/* Medium Devices, Tablets */
+
+@media only screen and (min-width: 760px) {
+    #section1 p {
+        padding-right: initial;
+        padding-left: initial;
+    }
+    .box p {
+        overflow: hidden;
+        font-size: initial;
+        text-align: justify;
+    }
+    .box img {
+        height: 200px;
+    }
+    .box {
+        min-height: 450px;
+    }
+}
+
+
+/* Large Devices, Laptops */
+
+@media only screen and (min-width: 992px) {
+    section {
+        padding: 100px 0 0;
+    }
+    .box p {
+        height: 100px;
+        overflow: initial;
+        font-size: 16px;
+        text-align: left;
+    }
+    .overlay {
+        position: absolute;
+        bottom: 0;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 100%;
+        width: auto;
+        opacity: 0;
+        transition: .5s ease;
+        background-color: grey;
+    }
+    .box:hover .overlay {
+        height: 100%;
+        opacity: .9;
+    }
+    .box img {
+        height: 200px;
+    }
+    .box {
+        min-height: 300px;
+    }
+    .text {
+        color: white;
+        text-align: justify;
+        position: absolute;
+        top: 20%;
+        left: 35%;
+        right: -30%;
+        transform: translate(-40%, -40%);
+    }
+}
+
+
+/* Extra Large Devices, WideScreen */
+
+@media only screen and (min-width: 1200px) {
+    #section1 p {
+        font-size: 30px;
+    }
+    .box p {
+        font-size: 20px;
+    }
+    .box img {
+        height: 300px;
+    }
+}

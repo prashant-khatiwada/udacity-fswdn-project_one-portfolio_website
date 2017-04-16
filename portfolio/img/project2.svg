@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   id="svg4269"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="project2.svg">
+  <title
+     id="title4871">Portfolio</title>
+  <defs
+     id="defs4271" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="95.032052"
+     inkscape:cy="54.236688"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-20,9.75"
+       orientation="0,1"
+       id="guide4945" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4274">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Portfolio</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36216)">
+    <g
+       transform="matrix(0.09876091,0,0,0.09280397,0.6195452,959.08052)"
+       id="g4692"
+       style="display:inline;fill:#3366cc">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 10,377.6 0,-103.4 980,0 0,108.1 c 0,219.4 -980,213 -980,-4.7 z M 371.3,186.1 c 0,-8.9 7.2,-16.1 16.1,-16.1 l 225.3,0 c 8.9,0 16.1,7.2 16.1,16.1 l 0,40.6 71.4,0 0,-72.7 c 0,-27.9 -22.7,-50.6 -50.6,-50.6 l -299,0 c -27.9,0 -50.6,22.7 -50.6,50.6 l 0,72.7 71.4,0 0,-40.6 z m 599.5,333.1 0,377.5 -941.6,0 0,-382.3 c 186.4,128.2 753.8,132.7 941.6,4.8 z m -416.9,142.5 -107.8,0 0,42.6 c 0,29.8 24.2,53.9 53.9,53.9 29.7,0 53.9,-24.2 53.9,-53.9 l 0,-42.6 0,0 z"
+         id="path4694"
+         style="fill:#404040" />
+    </g>
+  </g>
+</svg>
